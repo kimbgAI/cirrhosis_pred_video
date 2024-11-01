@@ -13,7 +13,7 @@
 
 ## Preview
 
-![figure1.png]
+![figure1.png](https://github.com/kimbgAI/cirrhosis_pred_video/blob/main/figure1.png)
                              
 ## Requiremenets
 
